@@ -1,0 +1,29 @@
+body{
+	background-image: url(index.png);
+	background-size:  cover;
+	background-repeat: no-repeat;
+}
+
+
+nav  {
+		width: 100%;
+}
+
+.pagecards
+{	
+	display: flex;
+	justify-content: center;	
+	margin-left: 50px;
+	margin-bottom: : 50px;
+	display: flex; important!
+}
+
+.card
+{		
+	margin : 10px;
+	padding: 10px;
+
+}
+
+
+
